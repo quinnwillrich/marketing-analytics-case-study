@@ -79,5 +79,4 @@ SQL files used for data preparation are located in the `sql/` folder.
 - **SQL** — data cleaning and aggregation  
 - **Looker Studio** — dashboard visualization
 =======
-# marketing-analytics-case-study
->>>>>>> 2efbd1252c20811e0a50198b847c1a7e41ee1d67
+
