@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Paid Media Performance Dashboard (Case Study)
 
 This project analyzes paid media performance for two consumer brands using SQL (BigQuery) and Looker Studio.
